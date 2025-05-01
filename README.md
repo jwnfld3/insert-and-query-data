@@ -23,6 +23,8 @@ USE ShopEZ;  -- Sets the current working database context to ShopEZ
 
 **Explanation**: Ensures all actions apply to the correct database.
 
+![image](https://github.com/user-attachments/assets/b43fe666-791e-4569-bf1d-8f2c6df93f06)
+
 ---
 
 ### Step 2: Insert Sample Data into the Customers Table
