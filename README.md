@@ -55,6 +55,8 @@ VALUES
 
 **Explanation**: Links orders to existing customers by referencing their `CustomerID` values.
 
+![image](https://github.com/user-attachments/assets/49f6da20-bfa4-4a6a-8f47-9bfc1b10e966)
+
 ---
 
 ### Step 4: View All Customers
