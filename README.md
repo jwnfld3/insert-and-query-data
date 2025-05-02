@@ -79,6 +79,8 @@ SELECT * FROM Orders;  -- Retrieves all columns and rows from the Orders table
 
 **Explanation**: Displays all existing order records for inspection.
 
+![image](https://github.com/user-attachments/assets/4dbe7b81-b2b2-4768-bcc8-5a2bb677882f)
+
 ---
 
 ### Step 6: Join Customers and Orders Tables
