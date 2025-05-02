@@ -97,7 +97,7 @@ JOIN
     Orders o ON c.CustomerID = o.CustomerID;  -- Inner join based on matching CustomerID values
 ```
 
-**Explanation**: Performs an inner join to combine customer and order data, showing full order context with customer details.
+**Explanation**: Performs an inner join that returns only rows where there is a match between `Customers` and `Orders`. This combines customer information (name) with their corresponding orders (date and amount). The result provides a complete picture of each order, including who placed it, when, and for how much. This is commonly used in reporting, dashboards, or analytics.
 
 ![image](https://github.com/user-attachments/assets/5ae29965-bb39-4695-9483-521f73efe45e)
 
