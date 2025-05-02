@@ -99,6 +99,8 @@ JOIN
 
 **Explanation**: Performs an inner join to combine customer and order data, showing full order context with customer details.
 
+![image](https://github.com/user-attachments/assets/5ae29965-bb39-4695-9483-521f73efe45e)
+
 ---
 
 ## Conclusion
