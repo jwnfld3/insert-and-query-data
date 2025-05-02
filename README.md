@@ -39,6 +39,8 @@ VALUES
 
 **Explanation**: Adds three sample customers with names, emails, and join dates to simulate real entries.
 
+![image](https://github.com/user-attachments/assets/867d4ac6-d424-424f-b783-eabb21b3d5b5)
+
 ---
 
 ### Step 3: Insert Sample Data into the Orders Table
