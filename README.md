@@ -67,6 +67,8 @@ SELECT * FROM Customers;  -- Retrieves all columns and rows from the Customers t
 
 **Explanation**: Retrieves all columns and records from the `Customers` table.
 
+![image](https://github.com/user-attachments/assets/f94993c3-6334-4f03-971a-e96a323697bb)
+
 ---
 
 ### Step 5: View All Orders
